@@ -227,7 +227,7 @@
                 <div class="price-list">
                     <div class="price-item">
                         <span>8MM</span>
-                        <span class="price-tag">₹78</span>
+                        <span class="price-tag">₹72</span>
                     </div>
                     <div class="price-item">
                         <span>10MM to 25MM</span>
